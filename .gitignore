@@ -1,3 +1,7 @@
 devices/
 dump/
 node_modules/
+config.env
+helpers/bdaddr/bdaddr
+helpers/bdaddr/bdaddr.o
+helpers/bdaddr/oui.o
